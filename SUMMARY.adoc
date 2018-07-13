@@ -1,0 +1,3 @@
+= Table of contents
+
+. link:README.adoc[CloudBees Core Installation Guide]
